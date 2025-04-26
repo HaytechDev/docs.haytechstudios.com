@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Haytech Docs"
-  text: "A VitePress Site"
+  text: "Knowledge base of Haytech Studios"
   tagline: My great project tagline
   actions:
     - theme: brand
